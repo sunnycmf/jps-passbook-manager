@@ -2,7 +2,7 @@
  * @author Jonnie Spratley, AppMatrix
  * @created 02/26/13
  */
-alloy generate model session authorized:Bool user:text account:text smartapp:text modules:List menu:List appid:string
+
 //Configuration Object to hold settings for server
 var config = {
     name : 'passbookmanager',
